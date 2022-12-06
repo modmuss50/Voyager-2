@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.modmuss50.voyager2.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "ThreadLocalUtilMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

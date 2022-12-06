@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "voyager2",
+  "version": "2.0.0",
+  "name": "Voyager 2",
+  "description": "Improves LWJGL compatibility with Java 19 and 20",
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "voyager2.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10"
+  }
+}
